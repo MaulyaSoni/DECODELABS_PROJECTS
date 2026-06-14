@@ -1,0 +1,25 @@
+job_role,skills
+Data Scientist,python machine_learning statistics data_analysis pandas numpy scikit_learn sql visualization deep_learning
+ML Engineer,python tensorflow pytorch deep_learning machine_learning docker kubernetes mlops model_deployment scikit_learn
+Data Analyst,sql excel python pandas data_visualization tableau power_bi statistics reporting business_intelligence
+Backend Developer,python java nodejs sql rest_api databases docker git authentication microservices
+Frontend Developer,javascript html css react vuejs nodejs typescript ui_ux responsive_design git
+Full Stack Developer,javascript python html css react nodejs sql databases rest_api git docker
+DevOps Engineer,docker kubernetes aws azure ci_cd linux bash git terraform cloud_infrastructure monitoring
+Cloud Architect,aws azure gcp cloud_infrastructure terraform kubernetes docker networking security iam
+Cybersecurity Analyst,networking linux security ethical_hacking penetration_testing firewalls cryptography python bash
+Android Developer,java kotlin android_sdk xml firebase rest_api git ui_design mobile_development
+iOS Developer,swift objective_c xcode ios_sdk firebase rest_api git ui_design mobile_development
+AI Engineer,python deep_learning nlp computer_vision tensorflow pytorch transformers llm prompt_engineering generative_ai
+NLP Engineer,python nlp text_processing transformers bert gpt tokenization spacy nltk deep_learning
+Computer Vision Engineer,python opencv deep_learning cnn pytorch tensorflow image_processing object_detection
+Database Administrator,sql mysql postgresql mongodb database_design indexing backup performance_tuning
+Site Reliability Engineer,linux docker kubernetes monitoring logging python bash ci_cd cloud aws
+Blockchain Developer,solidity ethereum web3 smart_contracts cryptography javascript nodejs python
+Game Developer,unity c_sharp unreal_engine c_plus_plus graphics physics_engine game_design
+Embedded Systems Engineer,c c_plus_plus microcontrollers rtos hardware_interfacing embedded_linux iot
+Data Engineer,python sql spark hadoop airflow etl data_pipelines kafka cloud aws azure
+Automation Engineer,python selenium testing ci_cd jenkins bash scripting devops git
+Research Scientist,python deep_learning research_papers statistics mathematics optimization machine_learning pytorch
+Product Analyst,sql python excel data_analysis product_metrics ab_testing statistics dashboards business_intelligence
+Prompt Engineer,llm prompt_engineering python generative_ai nlp chatgpt api_integration fine_tuning rag
